@@ -9,5 +9,9 @@
   * eg: not allowing a column to be null or specifing it has be unique
   * Can be done when creating table or after
   * ![image](https://user-images.githubusercontent.com/45542177/197877690-a29b2458-871a-4679-b56d-d44597ef74ee.png)
+* PK & FK relationship
+  * To link PK of other table as a FK in the new table
+  <img width="851" alt="image" src="https://user-images.githubusercontent.com/45542177/198389659-97236c77-06ad-4a49-ac29-abe3af7673e9.png">
+
 
 
