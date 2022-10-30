@@ -28,8 +28,7 @@ SELECT *FROM STUDENT(TB1) INNER JOIN(INNER JOIN -> JOIN KEY) COURSE(TB2) ON (STU
 
 NON-ANSI Format JOIN (OLD FORMAT) -> "WITH" Keyword
 
-  
-
-
+* DUAL? 
+* For each loop? Read/write to different table
 
 
